@@ -28,7 +28,7 @@
             }
         </script>
         <div class="c-card c-card--center">
-            <a href="https://tap2earn.co"><img style="width: 200px; margin-bottom: 15px" src="https://tap2earn.co/wp-content/uploads/2019/09/Tap2Earn-1.png" alt="Tap 2 Earn Logo"></a>
+            <a href="https://tap2earn.co"><img style="width: 80px; margin-bottom: 15px" src="{{asset('assets/t2e/content/uploads/2019/10/logo.png')}}" alt="Tap 2 Earn Logo"></a>
 
             <h4 style="margin-bottom: 10px !important" class="u-mb-medium">Sign Up</h4>
             <span class="" style="background: #ff4230;border-color: #ff4230;color: #fff;padding: 5px;font-size: 10px;border-radius: 10px;">$25 Sign Up Bonus Activated <i class="fas fa-check-circle"></i></span>

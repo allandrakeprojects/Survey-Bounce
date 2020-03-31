@@ -10,6 +10,8 @@ use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
+use Illuminate\Foundation\Auth\AuthenticatesUsers;
+use Illuminate\Support\Facades\Auth;
 
 
 class RegisterController extends Controller{
@@ -27,12 +29,17 @@ class RegisterController extends Controller{
 
     use RegistersUsers;
 
-    /**
-     * Where to redirect users after registration.
-     *
-     * @var string
-     */
-    protected $redirectTo = '/home';
+    // /**
+    //  * Where to redirect users after registration.
+    //  *
+    //  * @var string
+    //  */
+    // protected $redirectTo = '/';
+
+    protected function redirectTo()
+    {
+        return '/dashboard/welcome'; // return dynamicaly generated URL.
+    }
 
     /**
      * Create a new controller instance.
@@ -76,6 +83,7 @@ class RegisterController extends Controller{
 
 
     function sign_up($username = '', Request $request){
+
         if($username != ''){
             $ref_user  = User::where('username',$username)->first();
             if($ref_user){
@@ -83,10 +91,29 @@ class RegisterController extends Controller{
                 $refArr['refUsername']  = $ref_user->username;
                 session(['ref' => $refArr]);
             }
+
+
+            $pageRefreshed = isset($_SERVER['HTTP_CACHE_CONTROL']) &&($_SERVER['HTTP_CACHE_CONTROL'] === 'max-age=0' ||  $_SERVER['HTTP_CACHE_CONTROL'] == 'no-cache');
+            if($pageRefreshed != 1){
+                // proceed add $5 to $username
+                Referral::create([
+                    'referral'          => '',
+                    'referral_by'       => session('ref')['refID'],
+                    'referral_amount'   => 5,
+                    'status'            => 'link'
+                ]);
+
+                UserTrans::create([
+                        'user_id'   => session('ref')['refID'],
+                        'amount'    => 5,
+                        'purpose'   => 'user_account_share',
+                        'title'     => 'Share a Link',
+                        'description'   => 'You have share a link',
+                        'extra'         => ( ( isset(session('ref')['refID']))? 'Referral ID is '.session('ref')['refID'] : '' )
+                    ]);
+            }
         }
        //  print_r(session('ref')['refUsername']);
-
-
 
         return view('auth.register');
     }
@@ -113,7 +140,7 @@ class RegisterController extends Controller{
 
         UserTrans::create([
             'user_id'   => $user->id,
-                'amount'    => 5,
+                'amount'    => 25,
                 'purpose'   => 'user_account_create',
                 'title'     => 'Create Account',
                 'description'   => 'You have create account with the referral',
@@ -130,7 +157,7 @@ class RegisterController extends Controller{
 
             UserTrans::create([
                 'user_id'   => session('ref')['refID'],
-                'amount'    => 10,
+                'amount'    => 25,
                 'purpose'   => 'refer_user',
                 'title'     => 'Refer User',
                 'description'   => 'You have refer the User',
@@ -141,7 +168,21 @@ class RegisterController extends Controller{
         }
 
 
-
+        $validator = Validator::make($request->all(), [
+            'username' => 'required',
+            'password' => 'required'
+        ]);
+        if ($validator->fails()) {
+            return response()->json(array('status' => false,'data'=> [], 'message' => $validator->errors()->first()));
+        }
+        $credentials = $request->only('username', 'password');
+        // $credentials
+        if (Auth::attempt(['username' => $request->get('username'), 'password' => $request->get('password') ])) {
+            // Authentication passed...
+            // return response()->json(array('status' => true,'data'=> [], 'message' => 'Login Successfully!'));
+        }else{
+            // return response()->json(array('status' => false,'data'=> [], 'message' => 'Wrong Username and Password!' ));
+        }
 
         return response()->json(array('status' => true,'data'=> [], 'message' => 'Your account has been created!' ));
     }

@@ -48,7 +48,7 @@
                             <h3 class="c-text--subtitle">Clicks</h3>
                         </div>
                         <div>
-                            <h1 class="card-stat-num">0</h1>
+                        <h1 class="card-stat-num">{{ $click_count ?? '0' }}</h1>
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
             <div class="col-md-6 col-xl-6">
                 <div class="c-card ref-card" style="padding: 20px 30px 20px 30px;">
                     <h3 class="c-text--subtitle">YOUR REFERRAL LINK <i class="fas fa-info-circle"></i></h3>
-                    <div class="ref-box"><?=url('/sign-up/'.auth()->user()->username)?></div>
+                    <div class="ref-box">{{url('/sign-up/'.auth()->user()->username)}}</div>
                     <br>
                     <p><i class="fas fa-exclamation-circle" style="margin-right: 3px;"></i>Share this link and earn $5 for every person who clicks on it. Earn an additional $20-25 when they sign up! <br><b>You earn 20% of everything your referral makes!</b></p>
 

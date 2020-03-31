@@ -47,7 +47,7 @@
 
                 </div><div style="margin-bottom: 8px;">
                     <div style="max-width: 30%; display: inline-block; vertical-align: middle; margin-right: 5px; font-size: 11px; color: #adb7be; text-overflow: clip; white-space: nowrap; overflow: hidden;">
-                        <img src="https://tap2earn.co/wp-content/uploads/2019/09/Tap2Earn-1.png" style="width: 25px !important; margin-right: 2px !important; height: 25px; border-radius: 100px"> <b>Tap Bot</b> <span style="background: #00a900; padding: 1px 2px; border-radius: 5px; font-weight: 600; color: #fff !important; margin-left: 2px; margin-right: 2px; display: none; font-size: 9px;">User</span>
+                        <img src="https://tap2earn.co/wp-content/uploads/2019/09/logo.png" style="width: 25px !important; margin-right: 2px !important; height: 25px; border-radius: 100px"> <b>Tap Bot</b> <span style="background: #00a900; padding: 1px 2px; border-radius: 5px; font-weight: 600; color: #fff !important; margin-left: 2px; margin-right: 2px; display: none; font-size: 9px;">User</span>
                     </div>
                     <div style="max-width: 65% !important; display: inline-block; vertical-align: middle; background: #03a9f4; border-radius: 20px; overflow: hidden; text-overflow: ellipsis;">
                         <p style="margin-bottom: 0; /* padding: 8px 10px; */ padding: 8px 15px; font-size: 0.8rem; font-weight: 500; color: #ffffff;"><b><i>jil8wims</i> made $2,328 so far this week!</b></p>
@@ -80,7 +80,7 @@
 
                 </div><div style="margin-bottom: 8px;">
                     <div style="max-width: 30%; display: inline-block; vertical-align: middle; margin-right: 5px; font-size: 11px; color: #adb7be; text-overflow: clip; white-space: nowrap; overflow: hidden;">
-                        <img src="https://tap2earn.co/wp-content/uploads/2019/09/Tap2Earn-1.png" style="width: 25px !important; margin-right: 2px !important; height: 25px; border-radius: 100px"> <b>Tap Bot</b> <span style="background: #00a900; padding: 1px 2px; border-radius: 5px; font-weight: 600; color: #fff !important; margin-left: 2px; margin-right: 2px; display: none; font-size: 9px;">User</span>
+                        <img src="https://tap2earn.co/wp-content/uploads/2019/09/logo.png" style="width: 25px !important; margin-right: 2px !important; height: 25px; border-radius: 100px"> <b>Tap Bot</b> <span style="background: #00a900; padding: 1px 2px; border-radius: 5px; font-weight: 600; color: #fff !important; margin-left: 2px; margin-right: 2px; display: none; font-size: 9px;">User</span>
                     </div>
                     <div style="max-width: 65% !important; display: inline-block; vertical-align: middle; background: #03a9f4; border-radius: 20px; overflow: hidden; text-overflow: ellipsis;">
                         <p style="margin-bottom: 0; /* padding: 8px 10px; */ padding: 8px 15px; font-size: 0.8rem; font-weight: 500; color: #ffffff;"><b><i>YotamGafni1</i> made $1,512 so far today!</b></p>
@@ -146,7 +146,7 @@
 
                 </div><div style="margin-bottom: 8px;">
                     <div style="max-width: 30%; display: inline-block; vertical-align: middle; margin-right: 5px; font-size: 11px; color: #adb7be; text-overflow: clip; white-space: nowrap; overflow: hidden;">
-                        <img src="https://tap2earn.co/wp-content/uploads/2019/09/Tap2Earn-1.png" style="width: 25px !important; margin-right: 2px !important; height: 25px; border-radius: 100px"> <b>Tap Bot</b> <span style="background: #00a900; padding: 1px 2px; border-radius: 5px; font-weight: 600; color: #fff !important; margin-left: 2px; margin-right: 2px; display: none; font-size: 9px;">User</span>
+                        <img src="https://tap2earn.co/wp-content/uploads/2019/09/logo.png" style="width: 25px !important; margin-right: 2px !important; height: 25px; border-radius: 100px"> <b>Tap Bot</b> <span style="background: #00a900; padding: 1px 2px; border-radius: 5px; font-weight: 600; color: #fff !important; margin-left: 2px; margin-right: 2px; display: none; font-size: 9px;">User</span>
                     </div>
                     <div style="max-width: 65% !important; display: inline-block; vertical-align: middle; background: #03a9f4; border-radius: 20px; overflow: hidden; text-overflow: ellipsis;">
                         <p style="margin-bottom: 0; /* padding: 8px 10px; */ padding: 8px 15px; font-size: 0.8rem; font-weight: 500; color: #ffffff;"><b>The chat will shut down in 10 minutes for scheduled maintainence.</b></p>

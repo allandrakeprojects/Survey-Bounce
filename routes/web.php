@@ -19,7 +19,8 @@ Route::get('/do-logout', 'Auth\LoginController@custom_logout');
 Route::get('/sign-up/{username?}', 'Auth\RegisterController@sign_up');
 Route::post('/do-register', 'Auth\RegisterController@custom_register');
 
-Route::get('/dashboard', 'HomeController@dashboard');
+Route::get('/dashboard', 'HomeController@dashboard')->name('dashboard');
+Route::get('/dashboard/welcome', 'HomeController@welcome')->name('welcome');
 Route::get('/offer-wall', 'HomeController@offer_wall_listing');
 Route::get('/taskwall', 'HomeController@offer_wall_listing');
 Route::get('/reviewwall', 'HomeController@reviewwall');
@@ -64,7 +65,7 @@ Route::middleware(['auth'])->group(function () {
 
 
 /*
----------------     HOME 
+---------------     HOME
 */
 
 // finance/transaction/journal

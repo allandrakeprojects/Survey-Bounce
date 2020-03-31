@@ -46,12 +46,26 @@ class HomeController extends Controller
         return view('home.home_page');
     }
 
-
     public function dashboard(){
+        $userID         = auth()->user()->id;
+        $referral_count = Referral::where('referral_by',$userID)->where('status', '=', 'complete')->count();
+        $click_count = Referral::where('referral_by', '=', $userID)->where('status', '=', 'link')->count();
+        $earning        = UserTrans::where('user_id',$userID)->sum('amount');
+        return view('earn.dashboard', array(
+            'referral_count' => $referral_count,
+            'click_count' => $click_count,
+            'earning' => $earning)
+        );
+    }
+
+    public function welcome(){
         $userID         = auth()->user()->id;
         $referral_count = Referral::where('referral_by',$userID)->count();
         $earning        = UserTrans::where('user_id',$userID)->sum('amount');
-        return view('earn.dashboard',array('referral_count',$referral_count, 'earning' => $earning));
+        return view('earn.welcome', array(
+            'referral_count' => $referral_count,
+            'earning' => $earning)
+        );
     }
 
 

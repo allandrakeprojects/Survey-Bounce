@@ -283,7 +283,7 @@
             offerHTML += '<div class="offerimg"><img src="'+obj.picture+'"></div>';
         }
                         // str.substr(1, 4);
-            offerHTML += '<div class="offerinfo"><h3>'+obj.name_short+' </h3><p>'+obj.description.substr(0, 200)+'</b></p></div>';
+            offerHTML += '<div class="offerinfo"><h3>'+obj.name_short+' </h3><p>Tap 2 Earn</b></p></div>';
         // <p>'+obj.adcopy+'<b>$25.00</b>.	</p>
             offerHTML += '<div class="download"><div class="btn-o"><h4>Earn $25.00</h4></div></div></div></a>';
                     });

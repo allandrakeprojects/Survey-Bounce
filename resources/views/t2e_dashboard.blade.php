@@ -47,7 +47,7 @@
     <div class="o-page__sidebar js-page-sidebar">
         <aside class="c-sidebar">
             <!--  <a target="_blank" href="https://tap2earn.co/">  <div class="c-sidebar__brand">
-              <center><img style="width: 200px;" src="https://tap2earn.co/wp-content/uploads/2019/09/Tap2Earn-1.png" alt="TAP 2 EARN"></center>
+              <center><img style="width: 200px;" src="https://tap2earn.co/wp-content/uploads/2019/09/logo.png" alt="TAP 2 EARN"></center>
                   </div> </a> -->
 
             <!-- Scrollable -->

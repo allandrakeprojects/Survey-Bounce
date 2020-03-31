@@ -28,7 +28,7 @@
             }
         </script>
         <div class="c-card c-card--center">
-            <a href="https://tap2earn.co"><img style="width: 200px; margin-bottom: 15px" src="https://tap2earn.co/wp-content/uploads/2019/09/Tap2Earn-1.png" alt="Tap 2 Earn Logo"></a>
+            <a href="https://tap2earn.co"><img style="width: 80px; margin-bottom: 15px" src="{{asset('assets/t2e/content/uploads/2019/10/logo.png')}}" alt="Tap 2 Earn Logo"></a>
 
             <h4 class="u-mb-medium">Login</h4>
             <div id="message"></div>
