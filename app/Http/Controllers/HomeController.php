@@ -193,6 +193,11 @@ class HomeController extends Controller
         return view('earn.cashout');
     }
 
+    function help()
+    {
+        return view('earn.help');
+    }
+
     function instagram(){
         return view('earn.instagram',array('instagram_title' => $this->instagram_title));
     }

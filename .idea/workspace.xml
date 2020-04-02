@@ -116,7 +116,7 @@
       <find>CART</find>
       <find>email-decode.min.js</find>
       <find>tap 2 Earn</find>
-      <find>Tap 2 Earn</find>
+      <find>Survey Bounce</find>
       <find>name</find>
       <find>bio_update</find>
       <find>update profile</find>
@@ -145,10 +145,10 @@
       <replace>{{ env('APP_NAME') }}</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>C:\xampp\htdocs\tap2earn</dir>
-      <dir>C:\xampp\htdocs\tap2earn\resources\views</dir>
-      <dir>C:\xampp\htdocs\tap2earn\resources</dir>
-      <dir>C:\xampp\htdocs\tap2earn\public</dir>
+      <dir>C:\xampp\htdocs\surveybounce</dir>
+      <dir>C:\xampp\htdocs\surveybounce\resources\views</dir>
+      <dir>C:\xampp\htdocs\surveybounce\resources</dir>
+      <dir>C:\xampp\htdocs\surveybounce\public</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -166,7 +166,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
         <option value="$PROJECT_DIR$/resources/views/earn/dashboard.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/raw_file.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/home/tap2earn_home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/home/surveybounce_home.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/home/home_page.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/earn/about_us.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/static_pages/faq_2.blade.php" />
@@ -264,21 +264,21 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -292,11 +292,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -314,11 +314,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -336,11 +336,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -350,11 +350,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tap2earn" />
+              <option name="myItemId" value="surveybounce" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -378,16 +378,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\tap2earn\resources\views\static_pages" />
-      <recent name="C:\xampp\htdocs\tap2earn\resources\views" />
-      <recent name="C:\xampp\htdocs\tap2earn\app\Models" />
+      <recent name="C:\xampp\htdocs\surveybounce\resources\views\static_pages" />
+      <recent name="C:\xampp\htdocs\surveybounce\resources\views" />
+      <recent name="C:\xampp\htdocs\surveybounce\app\Models" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\tap2earn\app\Http\Controllers" />
-      <recent name="C:\xampp\htdocs\tap2earn\resources\views\earn" />
-      <recent name="C:\xampp\htdocs\tap2earn\resources\views\static_pages" />
-      <recent name="C:\xampp\htdocs\tap2earn\resources\views\home" />
-      <recent name="C:\xampp\htdocs\tap2earn\resources" />
+      <recent name="C:\xampp\htdocs\surveybounce\app\Http\Controllers" />
+      <recent name="C:\xampp\htdocs\surveybounce\resources\views\earn" />
+      <recent name="C:\xampp\htdocs\surveybounce\resources\views\static_pages" />
+      <recent name="C:\xampp\htdocs\surveybounce\resources\views\home" />
+      <recent name="C:\xampp\htdocs\surveybounce\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -650,7 +650,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home/tap2earn_home.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/home/surveybounce_home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="92" column="16497" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1033" selection-end-column="7" />

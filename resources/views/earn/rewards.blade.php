@@ -3,6 +3,10 @@
 
     <div class="container">
         <div class="alert">
+            <span class="closebtn" onclick="if (!window.__cfRLUnblockHandlers) return false; this.parentElement.style.display='none';">×</span>
+        You have not added a payment method to receive payments yet! <br><br> <a style="background: #fff;color: #e8796c;padding: 5px 8px;border-radius: 25px;border: 0;white-space: nowrap;" href="account#paymethod">Add Payment Method</a>
+        </div>
+        <div class="alert">
             <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span><b>$500.00</b> paid <b id="secs">2 minutes</b> ago to @*** via PayPal</div>
         <script>
             var secsTimerWork = setInterval(secsTimer, 1000);
@@ -30,8 +34,8 @@
 
         <div class="c-card">
             <h3>Rewards Center</h3>
-            <p>Welcome to the Tap 2 Earn Rewards Center! As a token of our gratitude for working with us, we're giving you prizes that reward your loyalty! You will earn 1 TAP coin for every $1 that you earn. These coins can be exchanged for many different prizes that can be found below.</p><br>
-            <div style="font-size: 15px;"><span style="font-weight: 600;background-color: #51cd6d;color: #fff;padding: 3px;border-radius: 5px;">
+            <p>Welcome to the Survey Bounce Rewards Center! As a token of our gratitude for working with us, we're giving you prizes that reward your loyalty! You will earn 1 TAP coin for every $1 that you earn. These coins can be exchanged for many different prizes that can be found below.</p><br>
+            {{-- <div style="font-size: 15px;"><span style="font-weight: 600;background-color: #51cd6d;color: #fff;padding: 3px;border-radius: 5px;">
 
             70</span> TAP coins available</div>
             <br>
@@ -66,7 +70,7 @@
                 <a href="#" class="jcarousel-control-next" data-jcarouselcontrol="true">›</a>
 
                 <p class="jcarousel-pagination" data-jcarouselpagination="true"><a href="#1">1</a><a href="#2">2</a><a href="#3">3</a><a href="#4">4</a><a href="#5">5</a><a href="#6">6</a><a href="#7">7</a><a href="#8" class="">8</a><a href="#9" class="">9</a><a href="#10" class="active">10</a><a href="#11">11</a><a href="#12">12</a><a href="#13">13</a><a href="#14">14</a></p>
-            </div>
+            </div> --}}
         </div>
 
         <div class="c-card" style="padding: 20px 10px;">
@@ -92,7 +96,7 @@
                                     </div>
                                 </div>
                                 <div class="card-body border-top">
-                                    <img alt="Card image cap" class="card-img-top mb-4" src="/assets/images/Dj30Na13.jpg"> <button class="btn btn-secondary btn-block btn-lg" disabled="" name="reward" value="1">Claim</button>
+                                    <img alt="Card image cap" class="card-img-top mb-4" src="https://dash.tap2earn.co/assets/images/Dj30Na13.jpg"> <button class="btn btn-secondary btn-block btn-lg" disabled="" name="reward" value="1">Claim</button>
                                 </div>
                                 <!-- Image wheel
                                 <div id="image-wheel">
@@ -128,7 +132,7 @@
                                     </div>
                                 </div>
                                 <div class="card-body border-top">
-                                    <img alt="Card image cap" class="card-img-top mb-4" src="/assets/images/Dj30Na14.jpg"> <button class="btn btn-secondary btn-block btn-lg" disabled="" name="reward" value="2">Claim</button>
+                                    <img alt="Card image cap" class="card-img-top mb-4" src="https://dash.tap2earn.co/assets/images/Dj30Na14.jpg"> <button class="btn btn-secondary btn-block btn-lg" disabled="" name="reward" value="2">Claim</button>
                                 </div>
                             </div>
                         </form>
@@ -151,7 +155,7 @@
                                     </div>
                                 </div>
                                 <div class="card-body border-top">
-                                    <img alt="Card image cap" class="card-img-top mb-4" src="/assets/images/Dj30Na15.jpg"> <button class="btn btn-secondary btn-block btn-lg" disabled="" name="reward" value="3">Claim</button>
+                                    <img alt="Card image cap" class="card-img-top mb-4" src="https://dash.tap2earn.co/assets/images/Dj30Na15.jpg"> <button class="btn btn-secondary btn-block btn-lg" disabled="" name="reward" value="3">Claim</button>
                                 </div>
                             </div>
                         </form>
@@ -325,12 +329,12 @@
 
         <div class="col-12">
             <footer class="c-footer">
-                <p>© Copyright 2015-2019 Tap 2 Earn, Pty Ltd. All Rights Reserved.</p>
+                <p>© Copyright 2015-2019 Survey Bounce. All Rights Reserved.</p>
                 <span class="c-footer__divider">|</span>
                 <nav>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co">Home</a>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co/terms">Terms</a>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co/privacy">Privacy</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com">Home</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/terms">Terms</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/privacy">Privacy</a>
                     <a class="c-footer__link" target="_blank" href="help.php">FAQ</a>
                     <a class="c-footer__link" target="_blank" href="help.php">Help</a>
                 </nav>

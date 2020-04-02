@@ -28,7 +28,7 @@
                     money! Your referral link is below. <br><br>
                     <div class="ref-box">{{url('/sign-up/'.auth()->user()->username)}}</div> <br><br> You will
                     be paid
-                    <b>$5</b> for every person that clicks your link and an extra <b>$25</b> when they join Tap 2 Earn.
+                    <b>$5</b> for every person that clicks your link and an extra <b>$25</b> when they join Survey Bounce.
                     What are you waiting for? Get to work!
                 </div>
             </div><input class="swal2-input" style="display: none;"><input type="file" class="swal2-file"
@@ -194,7 +194,7 @@
                         everything your referral makes!</b></p>
 
                 <!-- <br> <h3 class="c-text--subtitle">FACEBOOK REFERRAL LINK <i class="fas fa-info-circle"></i></h3>
-          <div class="ref-box">https://ref.tap2earn.co/ahmedshabbirawan</div>
+          <div class="ref-box">https://ref.surveybounce.com/ahmedshabbirawan</div>
           <br>
                       <p><i class="fab fa-facebook" style="margin-right: 3px;"></i>Use this link to share on Facebook!</p> -->
                 <!--    <p><i class="fas fa-exclamation-circle" style="margin-right: 3px;"></i>Our share link currently doesn't work for Facebook, Instagram, & WhatsApp. Please refer your friends using Twitter, iMessage, etc for now. We are working on resolving this issue.</p> -->
@@ -213,7 +213,7 @@
 
         <p><i class="fas fa-exclamation-triangle" style="color:red;"></i><span style="color: red;">WARNING!</span> When
             confirming payments, if our team finds any <b>fake referrals/clicks</b>, your account will be <b>banned</b>
-            and your payment will not be approved. <br><a target="_blank" href="https://tap2earn.co/fraud-policy">Fraud
+            and your payment will not be approved. <br><a target="_blank" href="https://surveybounce.com/fraud-policy">Fraud
                 Policy</a></p>
         <center><button id="fraudaccept" class="btn btn-primary"
                 style="background-color: red;width: 50%;margin-top: 10px;border-radius: 30px;">OK, I accept</button>
@@ -327,7 +327,7 @@
                                     class="fab fa-facebook-f"></i></span><span
                                 class="social-sales-name">Facebook</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="https://www.facebook.com/sharer/sharer.php?u=https://share.tap2earn.co/ahmedshabbirawan&amp;quote=COME JOIN Tap 2 Earn, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! https://share.tap2earn.co/ahmedshabbirawan"
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https://share.surveybounce.com/ahmedshabbirawan&amp;quote=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! https://share.surveybounce.com/ahmedshabbirawan"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
                         </li>
@@ -336,7 +336,7 @@
                                     class="fab fa-whatsapp"></i></span><span
                                 class="social-sales-name">WhatsApp</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="whatsapp://send?text=I'm inviting you to join Tap 2 Earn, a site that lets you earn money with social media. I just earned $25 and you can too! Sign up today for a $25 bonus! https://share.tap2earn.co/ahmedshabbirawan"
+                                    href="whatsapp://send?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $25 and you can too! Sign up today for a $25 bonus! https://share.surveybounce.com/ahmedshabbirawan"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
                         </li>
@@ -345,7 +345,7 @@
                                     class="fab fa-twitter"></i></span><span
                                 class="social-sales-name">Twitter</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="https://twitter.com/intent/tweet?url=https://share.tap2earn.co/ahmedshabbirawan;text=COME JOIN Tap 2 Earn, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus!;hashtags=onlinejob+%23earnmoney+%23makemoneyonline"
+                                    href="https://twitter.com/intent/tweet?url=https://share.surveybounce.com/ahmedshabbirawan;text=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus!;hashtags=onlinejob+%23earnmoney+%23makemoneyonline"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
                         </li>
@@ -354,7 +354,7 @@
                                     class="fab fa-pinterest-p"></i></span><span
                                 class="social-sales-name">Pinterest</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="https://pinterest.com/pin/create/link/?url=https://share.tap2earn.co/ahmedshabbirawan&amp;media=https://i.pinimg.com/564x/49/33/df/4933dfc29124448d91937132099303f4.jpg&amp;description=COME JOIN Tap 2 Earn, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! https://share.tap2earn.co/ahmedshabbirawan"
+                                    href="https://pinterest.com/pin/create/link/?url=https://share.surveybounce.com/ahmedshabbirawan&amp;media=https://i.pinimg.com/564x/49/33/df/4933dfc29124448d91937132099303f4.jpg&amp;description=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! https://share.surveybounce.com/ahmedshabbirawan"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
 
@@ -374,12 +374,12 @@
 
     <div class="col-12">
         <footer class="c-footer">
-            <p>© Copyright 2015-2019 Tap 2 Earn, Pty Ltd. All Rights Reserved.</p>
+            <p>© Copyright 2015-2019 Survey Bounce. All Rights Reserved.</p>
             <span class="c-footer__divider">|</span>
             <nav>
-                <a class="c-footer__link" target="_blank" href="https://tap2earn.co">Home</a>
-                <a class="c-footer__link" target="_blank" href="https://tap2earn.co/terms">Terms</a>
-                <a class="c-footer__link" target="_blank" href="https://tap2earn.co/privacy">Privacy</a>
+                <a class="c-footer__link" target="_blank" href="https://surveybounce.com">Home</a>
+                <a class="c-footer__link" target="_blank" href="https://surveybounce.com/terms">Terms</a>
+                <a class="c-footer__link" target="_blank" href="https://surveybounce.com/privacy">Privacy</a>
                 <a class="c-footer__link" target="_blank" href="help.php">FAQ</a>
                 <a class="c-footer__link" target="_blank" href="help.php">Help</a>
             </nav>

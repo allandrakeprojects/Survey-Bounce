@@ -28,7 +28,7 @@
             }
         </script>
         <div class="c-card c-card--center">
-            <a href="https://tap2earn.co"><img style="width: 80px; margin-bottom: 15px" src="{{asset('assets/t2e/content/uploads/2019/10/logo.png')}}" alt="Tap 2 Earn Logo"></a>
+            <a href="https://surveybounce.com"><img style="width: 80px; margin-bottom: 15px" src="{{asset('assets/t2e/content/uploads/2019/10/logo.png')}}" alt="Survey Bounce Logo"></a>
 
             <h4 style="margin-bottom: 10px !important" class="u-mb-medium">Sign Up</h4>
             <span class="" style="background: #ff4230;border-color: #ff4230;color: #fff;padding: 5px;font-size: 10px;border-radius: 10px;">$25 Sign Up Bonus Activated <i class="fas fa-check-circle"></i></span>
@@ -62,7 +62,7 @@
 
                 <div>
                     <input class="" data-validation="required" data-validation-error-msg="You must accept our Terms &amp; Conditions to sign up" id="terms" name="terms" type="checkbox" value="1" required>
-                    <span style="font-size:13px;">I accept the <a style="font-size:13px;" href="https://tap2earn.co/terms/" target="_blank">Terms &amp; Conditions</a>, <a style="font-size:13px;" href="https://tap2earn.co/privacy-policy/" target="_blank">Privacy Policy</a>, & <a style="font-size:13px;" href="https://tap2earn.co/fraud/" target="_blank">Fraud Policy</a></span>
+                    <span style="font-size:13px;">I accept the <a style="font-size:13px;" href="https://surveybounce.com/terms/" target="_blank">Terms &amp; Conditions</a>, <a style="font-size:13px;" href="https://surveybounce.com/privacy-policy/" target="_blank">Privacy Policy</a>, & <a style="font-size:13px;" href="https://surveybounce.com/fraud/" target="_blank">Fraud Policy</a></span>
                 </div>
 
 

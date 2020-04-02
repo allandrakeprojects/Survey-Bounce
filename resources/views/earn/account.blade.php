@@ -168,7 +168,7 @@
                             </thead>
 
                             <tbody>
-                            <tr class="c-table__row">
+                            {{-- <tr class="c-table__row">
                                 <td class="c-table__cell">
                                     <img style="height:30px;" src="{{asset('assets/t2e/images/paypal.png')}}">
                                 </td>
@@ -178,12 +178,30 @@
                                 <td class="c-table__cell">ahmedshabbirawan@gmail.com</td>
                                 <td class="c-table__cell">
                                 </td>
-                            </tr>                  </tbody>
+                            </tr>                   --}}
+                            </tbody>
                         </table>
                     </div>
                 </div>
             </div>
 
+        </div>
+
+
+        <div class="col-12">
+            <footer class="c-footer">
+                <p>© Copyright 2015-2019 Survey Bounce. All Rights Reserved.</p>
+                <span class="c-footer__divider">|</span>
+                <nav>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com">Home</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/terms">Terms</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/privacy">Privacy</a>
+                    <a class="c-footer__link" target="_blank" href="help.php">FAQ</a>
+                    <a class="c-footer__link" target="_blank" href="help.php">Help</a>
+                </nav>
+            </footer>
+            <center>
+            </center>
         </div>
     </div>
 

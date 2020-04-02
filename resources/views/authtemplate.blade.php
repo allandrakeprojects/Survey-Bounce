@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta property="og:url" content="https://tap2earn.co" />
-    <meta property="og:title" content="Tap 2 Earn" />
+    <meta property="og:url" content="https://surveybounce.com" />
+    <meta property="og:title" content="Survey Bounce" />
     <meta property="og:description" content="#1 Influencer Network. Start earning with social media." />
     <meta property="og:image" content="https://tap2earn.co/wp-content/uploads/2019/10/meta-banner.jpg" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -19,8 +19,8 @@
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Sign Up | Tap 2 Earn</title>
-    <meta name="description" content="Join the Tap 2 Earn network and join over 65,000 people turning their social media accounts into money! Join today and get a $25 sign up bonus.">
+    <title>Sign Up | Survey Bounce</title>
+    <meta name="description" content="Join the Survey Bounce network and join over 65,000 people turning their social media accounts into money! Join today and get a $25 sign up bonus.">
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=0.85, maximum-scale=0.85, shrink-to-fit=no">
 

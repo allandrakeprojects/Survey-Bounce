@@ -16,8 +16,8 @@
 
                                                 </div>
                                             </div>
-                                            With over $158,670,000 paid to over 730,000 members, Tap 2 Earn has quickly become the #1 influencer earning network. With such a track record, Tap 2 Earn has a lot of happy members.<p></p>
-                                            <p>We know how grateful members are when they receive their payments and rewards on time. Therefore, at Tap 2 Earn, we make it our <strong>priority</strong> to make all payments <strong>on time</strong>. Let the proofs below speak for themselves. Want to submit a proof, let us know via Instagram DM <a href="https://instagram.com/officialtap2earn">@officialtap2earn</a></p>
+                                            With over $158,670,000 paid to over 730,000 members, Survey Bounce has quickly become the #1 influencer earning network. With such a track record, Survey Bounce has a lot of happy members.<p></p>
+                                            <p>We know how grateful members are when they receive their payments and rewards on time. Therefore, at Survey Bounce, we make it our <strong>priority</strong> to make all payments <strong>on time</strong>. Let the proofs below speak for themselves. Want to submit a proof, let us know via Instagram DM <a href="https://instagram.com/officialsurveybounce">@officialsurveybounce</a></p>
 
                                         </div>
                                     </div>

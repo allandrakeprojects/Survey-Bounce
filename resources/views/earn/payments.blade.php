@@ -3,6 +3,10 @@
 
     <div class="container">
         <div class="alert">
+            <span class="closebtn" onclick="if (!window.__cfRLUnblockHandlers) return false; this.parentElement.style.display='none';">×</span>
+        You have not added a payment method to receive payments yet! <br><br> <a style="background: #fff;color: #e8796c;padding: 5px 8px;border-radius: 25px;border: 0;white-space: nowrap;" href="account#paymethod">Add Payment Method</a>
+        </div>
+        <div class="alert">
             <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span><b>$375.00</b> paid <b id="secs">2 minutes</b> ago to @*** via Bitcoin</div>
         <script>
             var secsTimerWork = setInterval(secsTimer, 1000);
@@ -115,12 +119,12 @@
 
         <div class="col-12">
             <footer class="c-footer">
-                <p>© Copyright 2015-2019 Tap 2 Earn, Pty Ltd. All Rights Reserved.</p>
+                <p>© Copyright 2015-2019 Survey Bounce. All Rights Reserved.</p>
                 <span class="c-footer__divider">|</span>
                 <nav>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co">Home</a>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co/terms">Terms</a>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co/privacy">Privacy</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com">Home</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/terms">Terms</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/privacy">Privacy</a>
                     <a class="c-footer__link" target="_blank" href="help.php">FAQ</a>
                     <a class="c-footer__link" target="_blank" href="help.php">Help</a>
                 </nav>

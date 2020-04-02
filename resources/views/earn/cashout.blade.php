@@ -4,6 +4,10 @@
     <div class="container">
         <h3>Cash Out</h3>
         <br>
+        <div class="alert">
+            <span class="closebtn" onclick="if (!window.__cfRLUnblockHandlers) return false; this.parentElement.style.display='none';">×</span>
+        You have not added a payment method to receive payments yet! <br><br> <a style="background: #fff;color: #e8796c;padding: 5px 8px;border-radius: 25px;border: 0;white-space: nowrap;" href="account#paymethod">Add Payment Method</a>
+        </div>
         <div class="c-card c-card-success">
             <div class="c-card-body">
                 <div class="progress">

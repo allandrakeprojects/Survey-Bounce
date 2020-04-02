@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=0.7">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <link rel="pingback" href="xmlrpc.php">
-    <title>Tap 2 Earn | #1 Influencer Earning Network For You</title>
+    <title>Survey Bounce | #1 Influencer Earning Network For You</title>
     <style type="text/css" data-type="vc_custom-css">.box-shadow{
             box-shadow: 5px 7px 30px rgba(72,73,121,0.15);
         }</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1542900029390{margin-top: -40px !important;}.vc_custom_1542902639924{margin-bottom: -145px !important;}.vc_custom_1570038272146{padding-top: 30px !important;}.vc_custom_1570038280624{padding-top: 30px !important;}.vc_custom_1570038287707{padding-top: 30px !important;}</style>                        <script>
@@ -37,20 +37,20 @@
     <link rel="canonical" href="<?=url('/')?>" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Tap 2 Earn | #1 Influencer Earning Network For You" />
+    <meta property="og:title" content="Survey Bounce | #1 Influencer Earning Network For You" />
     <meta property="og:description" content="Get paid to use social media! Earn money by referring friends and family and completing easy tasks. Join the #1 Influencer Earning Network today!" />
     <meta property="og:url" content="/" />
-    <meta property="og:site_name" content="Tap 2 Earn" />
+    <meta property="og:site_name" content="Survey Bounce" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Get paid to use social media! Earn money by referring friends and family and completing easy tasks. Join the #1 Influencer Earning Network today!" />
-    <meta name="twitter:title" content="Tap 2 Earn | #1 Influencer Earning Network For You" />
-    <meta name="twitter:site" content="@tap2earnpty" />
-    <meta name="twitter:creator" content="@tap2earnpty" />
-    <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"/#organization","name":"Tap 2 Earn","url":"/","sameAs":["https://www.youtube.com/user/XxThexWallxX","https://pinterest.com/tap2earn","https://twitter.com/tap2earnpty"],"logo":{"@type":"ImageObject","@id":"/#logo","url":"/wp-content/uploads/2019/10/logo.png","width":1920,"height":1080,"caption":"Tap 2 Earn"},"image":{"@id":"/#logo"}},{"@type":"WebSite","@id":"/#website","url":"/","name":"Tap 2 Earn","publisher":{"@id":"/#organization"},"potentialAction":{"@type":"SearchAction","target":"/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"/#webpage","url":"/","inLanguage":"en-US","name":"Tap 2 Earn | #1 Influencer Earning Network For You","isPartOf":{"@id":"/#website"},"about":{"@id":"/#organization"},"datePublished":"2018-11-19T07:29:56+00:00","dateModified":"2019-11-09T11:20:42+00:00","description":"Get paid to use social media! Earn money by referring friends and family and completing easy tasks. Join the #1 Influencer Earning Network today!"}]}</script>
+    <meta name="twitter:title" content="Survey Bounce | #1 Influencer Earning Network For You" />
+    <meta name="twitter:site" content="@surveybouncepty" />
+    <meta name="twitter:creator" content="@surveybouncepty" />
+    <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"/#organization","name":"Survey Bounce","url":"/","sameAs":["https://www.youtube.com/user/XxThexWallxX","https://pinterest.com/surveybounce","https://twitter.com/surveybouncepty"],"logo":{"@type":"ImageObject","@id":"/#logo","url":"/wp-content/uploads/2019/10/logo.png","width":1920,"height":1080,"caption":"Survey Bounce"},"image":{"@id":"/#logo"}},{"@type":"WebSite","@id":"/#website","url":"/","name":"Survey Bounce","publisher":{"@id":"/#organization"},"potentialAction":{"@type":"SearchAction","target":"/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"/#webpage","url":"/","inLanguage":"en-US","name":"Survey Bounce | #1 Influencer Earning Network For You","isPartOf":{"@id":"/#website"},"about":{"@id":"/#organization"},"datePublished":"2018-11-19T07:29:56+00:00","dateModified":"2019-11-09T11:20:42+00:00","description":"Get paid to use social media! Earn money by referring friends and family and completing easy tasks. Join the #1 Influencer Earning Network today!"}]}</script>
     <!-- / Yoast SEO plugin. -->
 
-    <link rel="alternate" type="application/rss+xml" title="Tap 2 Earn &raquo; Feed" href="<?=url('/feed')?>" />
-    <link rel="alternate" type="application/rss+xml" title="Tap 2 Earn &raquo; Comments Feed" href="<?=url('/comments/feed')?>" />
+    <link rel="alternate" type="application/rss+xml" title="Survey Bounce &raquo; Feed" href="<?=url('/feed')?>" />
+    <link rel="alternate" type="application/rss+xml" title="Survey Bounce &raquo; Comments Feed" href="<?=url('/comments/feed')?>" />
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -173,19 +173,19 @@
         <span class="__cf_email__" data-cfemail="7119141d1d1e31051001431410031f5f121e">[email&#160;protected]</span>
     </a>
 </span></div></div><div class="delimiter" style="height: 50px;width: 1px;background-color: rgba(45,45,66,0.1);margin-left:42px;margin-right:27px;"></div></div></div><div class='position_center_top header_side display_normal v_align_middle h_align_left'></div><div class='position_right_top header_side display_normal v_align_middle h_align_right'><div class='header_area_container'><div class='bottom_header html1_editor header_render_editor header_render'><div class='wrapper'><div style="color: #c1c2c6;">
-                                            <a target="_blank" href="https://twitter.com/tap2earnpty" style="margin-right: 21px;font-size: 13px;">
+                                            <a target="_blank" href="https://twitter.com/surveybouncepty" style="margin-right: 21px;font-size: 13px;">
                                                 <i class="wgl-icon fa fa-twitter" ></i>
                                             </a>
-                                            <a target="_blank" href="https://instagram.com/tap2earnofficial" style="margin-right: 21px;font-size: 13px;">
+                                            <a target="_blank" href="https://instagram.com/surveybounceofficial" style="margin-right: 21px;font-size: 13px;">
                                                 <i class="wgl-icon fa fa-instagram" ></i>
                                             </a>
                                             <a target="_blank" href="https://linkedin.com/company/tap-2-earn" style="margin-right: 21px;font-size: 13px;">
                                                 <i class="wgl-icon fa fa-linkedin" ></i>
                                             </a>
-                                            <a target="_blank" href="https://pinterest.com/tap2earn" style="margin-right: 21px;font-size: 13px;">
+                                            <a target="_blank" href="https://pinterest.com/surveybounce" style="margin-right: 21px;font-size: 13px;">
                                                 <i class="wgl-icon fa fa-pinterest" ></i>
                                             </a>
-                                            <a target="_blank" href="https://tap2earn.tumblr.com/" style="margin-right: 21px;font-size: 13px;">
+                                            <a target="_blank" href="https://surveybounce.tumblr.com/" style="margin-right: 21px;font-size: 13px;">
                                                 <i class="wgl-icon fa fa-tumblr" ></i>
                                             </a>
                                         </div></div></div><div class="delimiter" style="height: 50px;width: 1px;background-color: rgba(45,45,66,0.1);margin-left:27px;margin-right:28px;"></div><div class='bottom_header html5_editor header_render_editor header_render'><div class='wrapper'>
@@ -450,9 +450,9 @@
                                     </div>
                                 </div>
                                 <div  class ="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:10px;"></div></div>
-                                <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1528465408378"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">Tap 2 Earn | #1 Influencer Earning Network. Earn money by sharing your referral link and getting referrals.</span></div>
+                                <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1528465408378"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">Survey Bounce | #1 Influencer Earning Network. Earn money by sharing your referral link and getting referrals.</span></div>
                                             </div></div></div></div><div  class ="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:27px;"></div></div>
-                                <div  class="seofy_module_social clearfix aleft with_bg" style="margin-left:-6px; margin-right:-6px;"><a id=soc_icon_5dc8684587330 href="https://twitter.com/tap2earnpty" class="soc_icon fa fa-twitter" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Twitter'></a><a id=soc_icon_5dc86845873f6 href="https://www.instagram.com/officialtap2earn" class="soc_icon fa fa-instagram" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Instagram'></a><a id=soc_icon_5dc868458745d href="https://www.linkedin.com/company/tap-2-earn/" class="soc_icon fa fa-linkedin" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Linkedin'></a><a id=soc_icon_5dc86845874bd href="https://www.pinterest.com/Tap2Earn/" class="soc_icon fa fa-pinterest-p" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Pinterest'></a><a id=soc_icon_5dc8684587525 href="https://tap2earn.tumblr.com/" class="soc_icon fa fa-tumblr" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Tumblr'></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+                                <div  class="seofy_module_social clearfix aleft with_bg" style="margin-left:-6px; margin-right:-6px;"><a id=soc_icon_5dc8684587330 href="https://twitter.com/surveybouncepty" class="soc_icon fa fa-twitter" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Twitter'></a><a id=soc_icon_5dc86845873f6 href="https://www.instagram.com/officialsurveybounce" class="soc_icon fa fa-instagram" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Instagram'></a><a id=soc_icon_5dc868458745d href="https://www.linkedin.com/company/tap-2-earn/" class="soc_icon fa fa-linkedin" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Linkedin'></a><a id=soc_icon_5dc86845874bd href="https://www.pinterest.com/Tap2Earn/" class="soc_icon fa fa-pinterest-p" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Pinterest'></a><a id=soc_icon_5dc8684587525 href="https://surveybounce.tumblr.com/" class="soc_icon fa fa-tumblr" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target='_blank'  title='Tumblr'></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper">
                                 <div class="wpb_text_column wpb_content_element" >
                                     <div class="wpb_wrapper">
                                         <h5><span style="color: #ffffff;">Contacts</span></h5>
@@ -461,13 +461,13 @@
                                 </div>
                                 <div class="vc_row wpb_row vc_inner vc_row-fluid hover_links"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight"></span> Laan van Langerhuize 1, Amstelveen, 1186 DS Netherlands</span></div>
                                                 <div  class ="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:7px;"></div></div>
-                                                <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Website:</span> <a href="<?=url('/')?>" style="color: #ffffff;"> tap2earn.co</a></span></div>
+                                                <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Website:</span> <a href="<?=url('/')?>" style="color: #ffffff;"> surveybounce.com</a></span></div>
                                                 <div  class ="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:7px;"></div></div>
                                                 <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="cdn-cgi/l/email-protection.html#036b666f6f6c43776273316662716d2d606c6e" style="color: #ffffff;"><span class="__cf_email__" data-cfemail="c2aaa7aeaead82b6a3b2f0a7a3b0aceca1ad">[email&#160;protected]</span></a></span></div>
                                             </div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div></div></div>    		<div class='copyright' style="background-color:#040c5e;" >
         <div class='wgl-container'>                	<div class='row'  style="padding-top:15px;padding-bottom:15px;" >
                 <div class='wgl_col-12'>
-                    <p>Copyright © 2019 Tap 2 Earn, PTY LTD. All Rights Reserved.</p>                       </div>
+                    <p>Copyright © 2019 Survey Bounce. All Rights Reserved.</p>                       </div>
             </div>
         </div>            </div>
 </footer>
@@ -482,9 +482,9 @@
                                     </div>
                                 </div>
                                 <div class="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:10px;"></div></div>
-                                <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1528465408378"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">Tap 2 Earn | #1 Influencer Earning Network. Earn money by sharing your referral link and getting referrals.</span></div>
+                                <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1528465408378"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">Survey Bounce | #1 Influencer Earning Network. Earn money by sharing your referral link and getting referrals.</span></div>
                                             </div></div></div></div><div class="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:27px;"></div></div>
-                                <div class="seofy_module_social clearfix aleft with_bg" style="margin-left:-6px; margin-right:-6px;"><a id="soc_icon_5dc868a5f1dd7" href="https://twitter.com/tap2earnpty" class="soc_icon fa fa-twitter" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Twitter"></a><a id="soc_icon_5dc868a5f1e60" href="https://www.instagram.com/officialtap2earn" class="soc_icon fa fa-instagram" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Instagram"></a><a id="soc_icon_5dc868a5f1ec3" href="https://www.linkedin.com/company/tap-2-earn/" class="soc_icon fa fa-linkedin" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Linkedin"></a><a id="soc_icon_5dc868a5f1f23" href="https://www.pinterest.com/Tap2Earn/" class="soc_icon fa fa-pinterest-p" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Pinterest"></a><a id="soc_icon_5dc868a5f1f82" href="https://tap2earn.tumblr.com/" class="soc_icon fa fa-tumblr" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Tumblr"></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+                                <div class="seofy_module_social clearfix aleft with_bg" style="margin-left:-6px; margin-right:-6px;"><a id="soc_icon_5dc868a5f1dd7" href="https://twitter.com/surveybouncepty" class="soc_icon fa fa-twitter" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Twitter"></a><a id="soc_icon_5dc868a5f1e60" href="https://www.instagram.com/officialsurveybounce" class="soc_icon fa fa-instagram" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Instagram"></a><a id="soc_icon_5dc868a5f1ec3" href="https://www.linkedin.com/company/tap-2-earn/" class="soc_icon fa fa-linkedin" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Linkedin"></a><a id="soc_icon_5dc868a5f1f23" href="https://www.pinterest.com/Tap2Earn/" class="soc_icon fa fa-pinterest-p" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Pinterest"></a><a id="soc_icon_5dc868a5f1f82" href="https://surveybounce.tumblr.com/" class="soc_icon fa fa-tumblr" style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:12px; " target="_blank" title="Tumblr"></a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper">
                                 <div class="wpb_text_column wpb_content_element">
                                     <div class="wpb_wrapper">
                                         <h5><span style="color: #ffffff;">Contacts</span></h5>
@@ -493,13 +493,13 @@
                                 </div>
                                 <div class="vc_row wpb_row vc_inner vc_row-fluid hover_links"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight"></span> Laan van Langerhuize 1, Amstelveen, 1186 DS Netherlands</span></div>
                                                 <div class="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:7px;"></div></div>
-                                                <div class="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Website:</span> <a href="/" style="color: #ffffff;"> tap2earn.co</a></span></div>
+                                                <div class="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Website:</span> <a href="/" style="color: #ffffff;"> surveybounce.com</a></span></div>
                                                 <div class="seofy_module_spacing"><div class="spacing_size spacing_size-initial" style="height:7px;"></div></div>
-                                                <div class="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:hello@tap2earn.com" style="color: #ffffff;">hello@tap2earn.co</a></span></div>
+                                                <div class="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:hello@surveybounce.comm" style="color: #ffffff;">hello@surveybounce.com</a></span></div>
                                             </div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div></div></div>    		<div class="copyright" style="background-color:#040c5e;">
         <div class="wgl-container">                	<div class="row" style="padding-top:15px;padding-bottom:15px;">
                 <div class="wgl_col-12">
-                    <p>Copyright © 2019 Tap 2 Earn, PTY LTD. All Rights Reserved.</p>                       </div>
+                    <p>Copyright © 2019 Survey Bounce. All Rights Reserved.</p>                       </div>
             </div>
         </div>            </div>
 </footer>

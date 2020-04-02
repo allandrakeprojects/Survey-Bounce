@@ -1,6 +1,6 @@
 <html lang="en"><head>
-    <meta property="og:url" content="https://tap2earn.co">
-    <meta property="og:title" content="Tap 2 Earn">
+    <meta property="og:url" content="https://surveybounce.com">
+    <meta property="og:title" content="Survey Bounce">
     <meta property="og:description" content="#1 Influencer Network. Start earning with social media.">
     <meta property="og:image" content="https://tap2earn.co/wp-content/uploads/2019/10/meta-banner.jpg">
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -16,7 +16,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Dashboard | Tap 2 Earn</title>
+    <title>Dashboard | Survey Bounce</title>
     <meta name="description" content="Neat">
     <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9, shrink-to-fit=no">
 
@@ -46,8 +46,8 @@
 <div class="o-page">
     <div class="o-page__sidebar js-page-sidebar">
         <aside class="c-sidebar">
-            <!--  <a target="_blank" href="https://tap2earn.co/">  <div class="c-sidebar__brand">
-              <center><img style="width: 200px;" src="https://tap2earn.co/wp-content/uploads/2019/09/logo.png" alt="TAP 2 EARN"></center>
+            <!--  <a target="_blank" href="https://surveybounce.com/">  <div class="c-sidebar__brand">
+              <center><img style="width: 200px;" src="https://tap2earn.co/wp-content/uploads/2019/09/logo.png" alt="Survey Bounce"></center>
                   </div> </a> -->
 
             <!-- Scrollable -->

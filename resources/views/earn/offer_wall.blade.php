@@ -4,6 +4,10 @@
 
     <div class="container">
         <div class="alert">
+            <span class="closebtn" onclick="if (!window.__cfRLUnblockHandlers) return false; this.parentElement.style.display='none';">×</span>
+        You have not added a payment method to receive payments yet! <br><br> <a style="background: #fff;color: #e8796c;padding: 5px 8px;border-radius: 25px;border: 0;white-space: nowrap;" href="account#paymethod">Add Payment Method</a>
+        </div>
+        <div class="alert">
             <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span><b>$370.00</b> paid <b id="secs">27 minutes</b> ago to @* via PayPal</div>
         <script>
             var secsTimerWork = setInterval(secsTimer, 1000);
@@ -68,6 +72,7 @@
                 background: rgba(41, 128, 185, 0.7);
             }
         </style>
+        <input type="hidden" id="deviceOS" value="{{$device}}">
         <div class=".rewards-body" style="overflow: visible;">
 
             <div style="height: 100%; box-shadow: 0 0 0px #241d20;">
@@ -283,8 +288,14 @@
             offerHTML += '<div class="offerimg"><img src="'+obj.picture+'"></div>';
         }
                         // str.substr(1, 4);
-            offerHTML += '<div class="offerinfo"><h3>'+obj.name_short+' </h3><p>Tap 2 Earn</b></p></div>';
+
         // <p>'+obj.adcopy+'<b>$25.00</b>.	</p>
+            var deviceOS = $('input#deviceOS').val();
+            if(deviceOS != 'desktop'){
+                offerHTML += '<div class="offerinfo"><h3>'+obj.name_short+' </h3><p>Download and install this app, then run it for 30 seconds to earn $25.00</b></p></div>';
+            } else {
+                offerHTML += '<div class="offerinfo"><h3>'+obj.name_short+' </h3><p>Click to earn $25</b></p></div>';
+            }
             offerHTML += '<div class="download"><div class="btn-o"><h4>Earn $25.00</h4></div></div></div></a>';
                     });
                 }else{

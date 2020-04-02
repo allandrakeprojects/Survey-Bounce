@@ -8,6 +8,10 @@
 
     <div class="container">
         <div class="alert">
+            <span class="closebtn" onclick="if (!window.__cfRLUnblockHandlers) return false; this.parentElement.style.display='none';">×</span>
+        You have not added a payment method to receive payments yet! <br><br> <a style="background: #fff;color: #e8796c;padding: 5px 8px;border-radius: 25px;border: 0;white-space: nowrap;" href="account#paymethod">Add Payment Method</a>
+        </div>
+        <div class="alert">
             <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span><b>$260.00</b> paid <b id="secs">51 seconds</b> ago to @* via CASH app</div>
         <script>
             var secsTimerWork = setInterval(secsTimer, 1000);
@@ -42,13 +46,13 @@
             </div>
             <br>
 
-            <a target="_blank" href="https://twitter.com/intent/tweet?text=I'm inviting you to join Tap 2 Earn, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #2196F3;"><i class="fab fa-twitter"></i> Share</button></a>
 
-            <a target="_blank" href="whatsapp://send?text=I'm inviting you to join Tap 2 Earn, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
+            <a target="_blank" href="whatsapp://send?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #34af23;"><i class="fab fa-whatsapp"></i> Share</button></a>
 
-            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://share.tap2earn.co/ahmedshabbirawan&amp;quote=I'm inviting you to join Tap 2 Earn, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
+            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://share.surveybounce.com/ahmedshabbirawan&amp;quote=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #3b5998;"><i class="fab fa-facebook"></i> Share</button></a>
             <br>
 
@@ -77,12 +81,12 @@
         </div>
         <div class="col-12">
             <footer class="c-footer">
-                <p>© Copyright 2015-2019 Tap 2 Earn, Pty Ltd. All Rights Reserved.</p>
+                <p>© Copyright 2015-2019 Survey Bounce. All Rights Reserved.</p>
                 <span class="c-footer__divider">|</span>
                 <nav>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co">Home</a>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co/terms">Terms</a>
-                    <a class="c-footer__link" target="_blank" href="https://tap2earn.co/privacy">Privacy</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com">Home</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/terms">Terms</a>
+                    <a class="c-footer__link" target="_blank" href="https://surveybounce.com/privacy">Privacy</a>
                     <a class="c-footer__link" target="_blank" href="help.php">FAQ</a>
                     <a class="c-footer__link" target="_blank" href="help.php">Help</a>
                 </nav>
