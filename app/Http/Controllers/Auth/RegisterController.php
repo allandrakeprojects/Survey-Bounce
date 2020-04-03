@@ -104,13 +104,13 @@ class RegisterController extends Controller{
                 ]);
 
                 UserTrans::create([
-                        'user_id'   => session('ref')['refID'],
-                        'amount'    => 5,
-                        'purpose'   => 'user_account_share',
-                        'title'     => 'Share a Link',
-                        'description'   => 'You have share a link',
-                        'extra'         => ( ( isset(session('ref')['refID']))? 'Referral ID is '.session('ref')['refID'] : '' )
-                    ]);
+                    'user_id'   => session('ref')['refID'],
+                    'amount'    => 5,
+                    'purpose'   => 'user_account_share',
+                    'title'     => 'Share a Link',
+                    'description'   => 'You have share a link',
+                    'extra'         => ( ( isset(session('ref')['refID']))? 'Referral ID is '.session('ref')['refID'] : '' )
+                ]);
             }
         }
        //  print_r(session('ref')['refUsername']);

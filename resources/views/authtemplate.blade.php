@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="shortcut icon" href="{{asset('assets/t2e/content/uploads/2019/10/logo.png')}}" />
     <meta property="og:url" content="https://surveybounce.com" />
     <meta property="og:title" content="Survey Bounce" />
     <meta property="og:description" content="#1 Influencer Network. Start earning with social media." />
@@ -36,7 +37,7 @@
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" href="/dashboard/apple-touch-icon.png">
-    <link rel="shortcut icon" href="/dashboard/favicon.png" type="image/x-icon">
+    {{-- <link rel="shortcut icon" href="/dashboard/favicon.png" type="image/x-icon"> --}}
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ asset('assets/t2e/auth/neat.min.css') }}">

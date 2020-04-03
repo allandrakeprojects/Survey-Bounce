@@ -1,4 +1,5 @@
 <html lang="en"><head>
+    <link rel="shortcut icon" href="{{asset('assets/t2e/content/uploads/2019/10/logo.png')}}" />
     <meta property="og:url" content="https://surveybounce.com">
     <meta property="og:title" content="Survey Bounce">
     <meta property="og:description" content="#1 Influencer Network. Start earning with social media.">
@@ -32,7 +33,7 @@
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    {{-- <link rel="shortcut icon" href="favicon.png" type="image/x-icon"> --}}
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <!-- Stylesheet -->
@@ -74,11 +75,13 @@
                             <i class="c-sidebar__icon fas fa-tasks"></i>$50 Task Wall
                         </a>
                     </li>
+                    <!--
                     <li>
                         <a class="c-sidebar__link " href="<?=url('/reviewwall')?>">
                             <i class="c-sidebar__icon fas fa-book"></i>$25 Review Wall
                         </a>
                     </li>
+                    -->
                     <li>
                         <a class="c-sidebar__link " href="<?=url('/promo')?>">
                             <i class="c-sidebar__icon fab fa-instagram"></i>Promo Posts
@@ -90,6 +93,7 @@
                         </a>
                     </li>
                     <li>
+                        <!-- Favicon -->
                         <a class="c-sidebar__link " href="<?=url('/facebook')?>">
                             <i class="c-sidebar__icon fab fa-facebook"></i>$50 FB Video Submit
                         </a>
@@ -180,7 +184,7 @@
             <h2 class="c-navbar__title">Hi, <?=auth()->user()->name?></h2>
             <div class="c-dropdown dropdown">
                 <div class="c-avatar c-avatar--xsmall dropdown-toggle" id="dropdownMenuAvatar" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
-                    <img class="c-avatar__img" src="<?=asset('assets/t2e/dashboard/10.jpg')?>" alt="Profile pic">
+                    <img class="c-avatar__img" src="{{asset('assets/t2e/images/'.auth()->user()->avatar)}}" alt="Profile pic">
                     <!--  <i class="fas fa-sort-down" style="margin-left: 5px;"></i> -->
                 </div>
 

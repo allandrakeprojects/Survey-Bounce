@@ -38,7 +38,7 @@
         </script>
         <div class="c-card">
             <h3>Refer &amp; Earn</h3>
-            <p>Share your referral link with your friends to earn. Earn $2 for every friend who clicks your link and $10 for every friend that signs up.</p>
+            <p>Share your referral link with your friends to earn. Earn $5 for every friend who clicks your link and $25 for every friend that signs up.</p>
             <br>
             <div class="form-group">
                 <label for="usr">Your Referral Link:</label>
@@ -46,13 +46,13 @@
             </div>
             <br>
 
-            <a target="_blank" href="https://twitter.com/intent/tweet?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned ${{ $earning ?? '0.00' }} and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #2196F3;"><i class="fab fa-twitter"></i> Share</button></a>
 
-            <a target="_blank" href="whatsapp://send?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
+            <a target="_blank" href="whatsapp://send?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned ${{ $earning ?? '0.00' }} and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #34af23;"><i class="fab fa-whatsapp"></i> Share</button></a>
 
-            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://share.surveybounce.com/ahmedshabbirawan&amp;quote=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $70.00 and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
+            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://share.surveybounce.com/ahmedshabbirawan&amp;quote=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned ${{ $earning ?? '0.00' }} and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #3b5998;"><i class="fab fa-facebook"></i> Share</button></a>
             <br>
 

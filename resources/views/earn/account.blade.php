@@ -233,14 +233,15 @@
 
 
         function avatar_update(){
-            var avatar_  = $('#avatarmessage').val();
+            var avatar_  = $('#avatar').val();
             $.ajax({
                 method:'POST',
                 url:'<?=url('/user/avatar-update')?>',
                 data:{avatar:avatar_},
                 success:function(res){
                     // console.log(res);
-                   //  $('#form-message').html(res.message);
+                    // $('#form-message').html(res.message);
+                    location.reload();
                 }
             });
         }

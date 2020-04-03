@@ -48,7 +48,7 @@
                         <br>
                         💵 Sign up today for a $25 bonus! 💵
                         <br>
-                        ‼️ https://share.surveybounce.com/ahmedshabbirawan ‼️
+                        ‼️ {{url('/sign-up/'.auth()->user()->username)}} ‼️
                         <br><br>
                         Make money online with Survey Bounce. Survey Bounce pays you for referring friends and family to their website.
                         <br>
@@ -58,14 +58,15 @@
                         <br><br>
                         Sign up with my referral link for $25 bonus! Limited time only!
                         <br>
-                        https://share.surveybounce.com/ahmedshabbirawan  </div>
+                        {{url('/sign-up/'.auth()->user()->username)}}  </div>
                 </div>
                 <div class="form-group">
-                    <form role="form" action="" method="post" class="has-validation-callback">
-                        <label for="usr">Post Link</label>
-                        <input data-validation="required url" data-validation-error-msg="Please enter a valid Facebook post URL" type="url" class="form-control" name="url" required="">
+                    <form role="form" action="<?=url('youtube-video-submit')?>" method="post" class="has-validation-callback">
+                        @csrf
+                        <label for="usr">Video Link</label>
+                        <input data-validation="required url" data-validation-error-msg="Please enter a valid video URL" type="url" class="form-control" name="url" required="">
                         <br>
-                        <input type="submit" class="btn btn-primary" name="submit" value="Submit Post">
+                        <input type="submit" class="btn btn-primary" name="submit" value="Submit Video">
                     </form>
                 </div>
 

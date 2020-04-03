@@ -17,9 +17,9 @@
             <p>To save an image, press and hold it down then press save (mobile) or right click then save image (desktop)</p>
             <br>
             <div class="row">
-                <div class="col-4">1. Click an image</div>
+                {{-- <div class="col-4">1. Click an image</div>
                 <div class="col-4">2. Take a screenshot</div>
-                <div class="col-4">3. Post on social media</div>
+                <div class="col-4">3. Post on social media</div> --}}
             </div>
             <br>
             <style>
@@ -31,31 +31,13 @@
                 margin-bottom: 25px;
             ">
                 <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Basic Ad 2.png"><img src="<?=asset('assets/t2e/images')?>/Basic Ad 2.png"></a>
+                    <a target="_blank" href="<?=asset('assets/t2e/content/uploads/2019/10/promo-01.jpg')?>"><img src="<?=asset('assets/t2e/content/uploads/2019/10/promo-01.jpg')?>"></a>
                 </div>
                 <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Basic Ad 6.png"><img src="<?=asset('assets/t2e/images')?>/Basic Ad 6.png"></a>
+                    <a target="_blank" href="<?=asset('assets/t2e/content/uploads/2019/10/promo-02.jpg')?>"><img src="<?=asset('assets/t2e/content/uploads/2019/10/promo-02.jpg')?>"></a>
                 </div>
                 <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Informal Ad 6.png"><img src="<?=asset('assets/t2e/images')?>/Informal Ad 6.png"></a>
-                </div>
-                <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Basic Ad 3.png"><img src="<?=asset('assets/t2e/images')?>/Basic Ad 3.png"></a>
-                </div>
-                <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Basic Ad 9.png"><img src="<?=asset('assets/t2e/images')?>/Basic Ad 9.png"></a>
-                </div>
-                <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Informal Ad 8.png"><img src="<?=asset('assets/t2e/images')?>/Informal Ad 8.png"></a>
-                </div>
-                <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Basic Ad 4.png"><img src="<?=asset('assets/t2e/images')?>/Basic Ad 4.png"></a>
-                </div>
-                <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Basic Ad 7.png"><img src="<?=asset('assets/t2e/images')?>/Basic Ad 7.png"></a>
-                </div>
-                <div class="col-6 col-md-4 promo-img">
-                    <a target="_blank" href="<?=asset('assets/t2e/images')?>/Informal Ad 9.png"><img src="<?=asset('assets/t2e/images')?>/Informal Ad 9.png"></a>
+                    <a target="_blank" href="<?=asset('assets/t2e/content/uploads/2019/10/promo-03.jpg')?>"><img src="<?=asset('assets/t2e/content/uploads/2019/10/promo-03.jpg')?>"></a>
                 </div>
             </div>
 

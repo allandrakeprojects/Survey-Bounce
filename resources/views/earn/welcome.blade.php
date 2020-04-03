@@ -327,7 +327,7 @@
                                     class="fab fa-facebook-f"></i></span><span
                                 class="social-sales-name">Facebook</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="https://www.facebook.com/sharer/sharer.php?u=https://share.surveybounce.com/ahmedshabbirawan&amp;quote=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! https://share.surveybounce.com/ahmedshabbirawan"
+                                    href="https://www.facebook.com/sharer/sharer.php?u={{url('/sign-up/'.auth()->user()->username)}}&amp;quote=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! {{url('/sign-up/'.auth()->user()->username)}}"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
                         </li>
@@ -336,7 +336,7 @@
                                     class="fab fa-whatsapp"></i></span><span
                                 class="social-sales-name">WhatsApp</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="whatsapp://send?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $25 and you can too! Sign up today for a $25 bonus! https://share.surveybounce.com/ahmedshabbirawan"
+                                    href="whatsapp://send?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned $25 and you can too! Sign up today for a $25 bonus! {{url('/sign-up/'.auth()->user()->username)}}"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
                         </li>
@@ -345,7 +345,7 @@
                                     class="fab fa-twitter"></i></span><span
                                 class="social-sales-name">Twitter</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="https://twitter.com/intent/tweet?url=https://share.surveybounce.com/ahmedshabbirawan;text=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus!;hashtags=onlinejob+%23earnmoney+%23makemoneyonline"
+                                    href="https://twitter.com/intent/tweet?url={{url('/sign-up/'.auth()->user()->username)}};text=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus!;hashtags=onlinejob+%23earnmoney+%23makemoneyonline"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
                         </li>
@@ -354,7 +354,7 @@
                                     class="fab fa-pinterest-p"></i></span><span
                                 class="social-sales-name">Pinterest</span><span class="social-sales-count text-dark">
                                 <a target="_blank"
-                                    href="https://pinterest.com/pin/create/link/?url=https://share.surveybounce.com/ahmedshabbirawan&amp;media=https://i.pinimg.com/564x/49/33/df/4933dfc29124448d91937132099303f4.jpg&amp;description=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! https://share.surveybounce.com/ahmedshabbirawan"
+                                    href="https://pinterest.com/pin/create/link/?url={{url('/sign-up/'.auth()->user()->username)}}&amp;media=https://i.pinimg.com/564x/49/33/df/4933dfc29124448d91937132099303f4.jpg&amp;description=COME JOIN Survey Bounce, a site that lets you earn money with social media. I earned $25 and you can too! Sign up today for a $25 bonus! {{url('/sign-up/'.auth()->user()->username)}}"
                                     class="btn btn-primary btn-lg">
                                     Share Link</a></span>
 

@@ -25,7 +25,7 @@
                     <form id="cashout" action="" method="post">
                         <div class="form-group">
                             <label for="usr">Amount</label>
-                            <input type="text" class="c-input" name="amount" disabled="" value="$70.00">
+                            <input type="text" class="c-input" name="amount" disabled="" value="${{ $earning ?? '0.00' }}">
                             <br>
                             <label for="usr">Payment Method</label>
                             <input type="text" class="c-input" name="pay_method" disabled="" value="PayPal">
