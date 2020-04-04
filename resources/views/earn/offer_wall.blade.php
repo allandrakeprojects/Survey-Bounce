@@ -274,7 +274,7 @@
         function loadOffer(){
             $.ajax({
                 method: "GET",
-                url:    "https://mobverify.com/api/v1/?affiliateid=211091&country=US&device=<?=$device?>&ctype=1"
+                url:    "https://mobverify.com/api/v1/?affiliateid=211091&country=CH&device=<?=$device?>&ctype=1"
             }).done(function( res ) {
                 console.log(res);
                 $('.loading-icon').hide();

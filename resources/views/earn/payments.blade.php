@@ -43,7 +43,7 @@
 
                     <div class="card-stat">
                         <h3 class="c-text--subtitle">Total Earnings</h3>
-                        <h1 class="card-stat-num">$70.00</h1>
+                        <h1 class="card-stat-num">${{ $earning ?? '0.00' }}</h1>
                     </div>
                 </div>
             </div>
@@ -58,7 +58,7 @@
 
                     <div class="card-stat">
                         <h3 class="c-text--subtitle">Current Earnings</h3>
-                        <h1 class="card-stat-num">$70.00</h1>
+                        <h1 class="card-stat-num">${{ $earning ?? '0.00' }}</h1>
                     </div>
                 </div>
             </div>

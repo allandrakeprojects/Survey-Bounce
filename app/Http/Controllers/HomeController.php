@@ -194,7 +194,12 @@ class HomeController extends Controller
     }
 
     function payments(){
-        return view('earn.payments');
+        $userID         = auth()->user()->id;
+        $earning        = UserTrans::where('user_id',$userID)->sum('amount');
+
+        return view('earn.payments', array(
+            'earning' => $earning)
+        );
     }
 
     function rewards(){

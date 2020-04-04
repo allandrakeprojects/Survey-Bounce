@@ -184,7 +184,7 @@
             <h2 class="c-navbar__title">Hi, <?=auth()->user()->name?></h2>
             <div class="c-dropdown dropdown">
                 <div class="c-avatar c-avatar--xsmall dropdown-toggle" id="dropdownMenuAvatar" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
-                    <img class="c-avatar__img" src="{{asset('assets/t2e/images/'.auth()->user()->avatar)}}" alt="Profile pic">
+                <img class="c-avatar__img" src="{{ asset('assets/t2e/images') . '/' }}{{ auth()->user()->avatar ?? '10.jpg' }}" alt="Profile pic">
                     <!--  <i class="fas fa-sort-down" style="margin-left: 5px;"></i> -->
                 </div>
 
