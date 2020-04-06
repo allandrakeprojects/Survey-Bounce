@@ -34,7 +34,7 @@
 
         <div class="c-card">
             <h3>Rewards Center</h3>
-            <p>Welcome to the Survey Bounce Rewards Center! As a token of our gratitude for working with us, we're giving you prizes that reward your loyalty! You will earn 1 TAP coin for every $1 that you earn. These coins can be exchanged for many different prizes that can be found below.</p><br>
+            <p>Welcome to the Survey Bounce Rewards Center! As a token of our gratitude for working with us, we're giving you prizes that reward your loyalty! You will earn 1 BOUNCE coin for every $1 that you earn. These coins can be exchanged for many different prizes that can be found below.</p><br>
             {{-- <div style="font-size: 15px;"><span style="font-weight: 600;background-color: #51cd6d;color: #fff;padding: 3px;border-radius: 5px;">
 
             70</span> TAP coins available</div>

@@ -52,7 +52,7 @@
             <a target="_blank" href="whatsapp://send?text=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned ${{ $earning ?? '0.00' }} and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #34af23;"><i class="fab fa-whatsapp"></i> Share</button></a>
 
-            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://share.surveybounce.com/ahmedshabbirawan&amp;quote=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned ${{ $earning ?? '0.00' }} and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
+            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=<?=url('sign-up/'.auth()->user()->username)?>&amp;quote=I'm inviting you to join Survey Bounce, a site that lets you earn money with social media. I just earned ${{ $earning ?? '0.00' }} and you can too! Sign up today for a $25 bonus! <?=url('sign-up/'.auth()->user()->username)?>">
                 <button class="c-btn c-btn--warning" style="background: #3b5998;"><i class="fab fa-facebook"></i> Share</button></a>
             <br>
 

@@ -49,7 +49,7 @@
                 </div>
                 <div class="form-group">
                     <label for="usr">Video Description</label>
-                    <div class="ref-box">Sign up today for a $25 bonus! {{url('/sign-up/'.auth()->user()->username)}} Make money online with Survey Bounce. Survey Bounce pays you for referring friends and family to their website. You can earn up to $10 per referral. Want to know why it works and where the money comes from? Check out this link: https://surveybounce.com/faq
+                    <div class="ref-box">Sign up today for a $25 bonus! {{url('/sign-up/'.auth()->user()->username)}} Make money online with Survey Bounce. Survey Bounce pays you for referring friends and family to their website. You can earn up to $25 per referral. Want to know why it works and where the money comes from? Check out this link: https://surveybounce.com/faq
                         <br>
                         Sign up with my referral link for $25 bonus! Limited time only! {{url('/sign-up/'.auth()->user()->username)}}   <br><br>
                         -----------------------TAGS----------------------

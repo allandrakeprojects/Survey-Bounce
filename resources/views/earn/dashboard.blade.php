@@ -112,7 +112,7 @@
                         <h3 class="c-text--subtitle">Submits &amp; Reviews</h3>
                     </div>
                     <div>
-                        <h1 class="card-stat-num">0</h1>
+                        <h1 class="card-stat-num">{{ $review_count ?? '0' }}</h1>
                     </div>
                 </div>
             </div>
@@ -190,23 +190,23 @@
                         <tbody>
                             <tr>
                                 <td>Refer friends</td>
-                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $10</button></a></td>
+                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $25</button></a></td>
                             </tr>
                             <tr>
                                 <td>Get clicks</td>
-                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $2</button></a></td>
+                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $5</button></a></td>
                             </tr>
                             <tr>
                                 <td>Download apps</td>
-                                <td><a href="/dashboard/taskwall.php"><button class="t-earn">Earn $10</button></a></td>
+                                <td><a href="<?=url('/taskwall')?>"><button class="t-earn">Earn $25</button></a></td>
                             </tr>
                             <tr>
                                 <td>Complete surveys</td>
-                                <td><a href="/dashboard/taskwall.php"><button class="t-earn">Earn $25</button></a></td>
+                                <td><a href="<?=url('/taskwall')?>"><button class="t-earn">Earn $25</button></a></td>
                             </tr>
                             <tr>
                                 <td>Create YouTube videos</td>
-                                <td><a href="/dashboard/youtube.php"><button class="t-earn">Earn $50</button></a></td>
+                                <td><a href="<?=url('/taskwall')?>"><button class="t-earn">Earn $50</button></a></td>
                             </tr>
                         </tbody>
                     </table>

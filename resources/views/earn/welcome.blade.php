@@ -234,15 +234,15 @@
                         <tbody>
                             <tr>
                                 <td>Refer friends</td>
-                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $10</button></a></td>
+                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $25</button></a></td>
                             </tr>
                             <tr>
                                 <td>Get clicks</td>
-                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $2</button></a></td>
+                                <td><a href="<?=url('/refer')?>"><button class="t-earn">Earn $5</button></a></td>
                             </tr>
                             <tr>
                                 <td>Download apps</td>
-                                <td><a href="/dashboard/taskwall.php"><button class="t-earn">Earn $10</button></a></td>
+                                <td><a href="/dashboard/taskwall.php"><button class="t-earn">Earn $25</button></a></td>
                             </tr>
                             <tr>
                                 <td>Complete surveys</td>

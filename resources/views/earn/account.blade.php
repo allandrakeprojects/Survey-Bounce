@@ -168,17 +168,17 @@
                             </thead>
 
                             <tbody>
-                            {{-- <tr class="c-table__row">
+                            <tr class="c-table__row">
                                 <td class="c-table__cell">
                                     <img style="height:30px;" src="{{asset('assets/t2e/images/paypal.png')}}">
                                 </td>
                                 <td class="c-table__cell">
                                     PayPal
                                 </td>
-                                <td class="c-table__cell">ahmedshabbirawan@gmail.com</td>
+                                <td class="c-table__cell">{{ auth()->user()->email }}</td>
                                 <td class="c-table__cell">
                                 </td>
-                            </tr>                   --}}
+                            </tr>                  
                             </tbody>
                         </table>
                     </div>

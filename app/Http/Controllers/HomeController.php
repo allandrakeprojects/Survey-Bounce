@@ -51,11 +51,13 @@ class HomeController extends Controller
         $userID         = auth()->user()->id;
         $referral_count = Referral::where('referral_by',$userID)->where('status', '=', 'complete')->count();
         $click_count = Referral::where('referral_by', '=', $userID)->where('status', '=', 'link')->count();
+        $review_count = Referral::where('referral_by', '=', $userID)->where('status', '=', 'review')->count();
         $earning        = UserTrans::where('user_id',$userID)->sum('amount');
 
         return view('earn.dashboard', array(
             'referral_count' => $referral_count,
             'click_count' => $click_count,
+            'review_count' => $review_count,
             'earning' => $earning)
         );
     }
@@ -66,6 +68,24 @@ class HomeController extends Controller
         $earning        = UserTrans::where('user_id',$userID)->sum('amount');
         return view('earn.welcome', array(
             'referral_count' => $referral_count,
+            'earning' => $earning)
+        );
+    }
+
+    public function cashout_certify(){
+        $userID         = auth()->user()->id;
+        $earning        = UserTrans::where('user_id',$userID)->sum('amount');
+
+        return view('earn.certify', array(
+            'earning' => $earning)
+        );
+    }
+
+    public function cashout_error(){
+        $userID         = auth()->user()->id;
+        $earning        = UserTrans::where('user_id',$userID)->sum('amount');
+
+        return view('earn.certify_error', array(
             'earning' => $earning)
         );
     }
@@ -161,6 +181,14 @@ class HomeController extends Controller
         //         ->withErrors($validator)
         //         ->withInput();
         // }
+        
+        Referral::create([
+            'referral'          => '',
+            'referral_by'       => session('ref')['refID'],
+            'referral_amount'   => 5,
+            'status'            => 'review'
+        ]);
+
 
         UserTrans::create([
             'user_id'       => auth()->user()->id,
@@ -256,6 +284,13 @@ class HomeController extends Controller
         //         ->withInput();
         // }
 
+        Referral::create([
+            'referral'          => '',
+            'referral_by'       => session('ref')['refID'],
+            'referral_amount'   => 5,
+            'status'            => 'review'
+        ]);
+
         UserTrans::create([
             'user_id'       => auth()->user()->id,
             'amount'        => 50,
@@ -300,6 +335,14 @@ class HomeController extends Controller
 //         if ($validator->fails()) {
 //             return redirect('instagram')->withErrors($validator)->withInput();
 //         }
+        
+        Referral::create([
+            'referral'          => '',
+            'referral_by'       => session('ref')['refID'],
+            'referral_amount'   => 5,
+            'status'            => 'review'
+        ]);
+
         UserTrans::create([
             'user_id'       => auth()->user()->id,
             'amount'        => 50,

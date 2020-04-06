@@ -36,7 +36,7 @@
                             <input type="hidden" value="1" name="amount_update">
                         </div>
                     </form>
-                    <button class="btn btn-primary" onclick="certify();">Request Payment</button>
+                    <a href="{{ route('cashout.certify') }}" type="button" class="btn btn-primary">Request Payment</a>
                 </div></div></div>
     </div>
 
